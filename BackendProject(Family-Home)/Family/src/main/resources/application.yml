@@ -1,0 +1,21 @@
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: "http://localhost:8761/eureka/"
+  instance:
+    hostname: localhost
+
+server:
+  port: 8002
+spring:
+  application:
+    name: FAMILY-SERVICE
+  jpa:
+    hibernate:
+      ddl-auto: create
+  datasource:
+    url: jdbc:mysql://localhost:3306/famhome_db
+    username: root
+    password: root

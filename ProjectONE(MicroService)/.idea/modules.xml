@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MS-ServiceRegistry/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/MS-ServiceRegistry/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-EmployeeService/.mvn/.mvn1.iml" filepath="$PROJECT_DIR$/MS-EmployeeService/.mvn/.mvn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-DepartmentService/.mvn/.mvn2.iml" filepath="$PROJECT_DIR$/MS-DepartmentService/.mvn/.mvn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-APIGateway/.mvn/.mvn3.iml" filepath="$PROJECT_DIR$/MS-APIGateway/.mvn/.mvn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-EmployeeService/src/main/main.iml" filepath="$PROJECT_DIR$/MS-EmployeeService/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-DepartmentService/src/main/main1.iml" filepath="$PROJECT_DIR$/MS-DepartmentService/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-ServiceRegistry/src/main/main2.iml" filepath="$PROJECT_DIR$/MS-ServiceRegistry/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-APIGateway/src/main/main3.iml" filepath="$PROJECT_DIR$/MS-APIGateway/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-EmployeeService/src/test/test.iml" filepath="$PROJECT_DIR$/MS-EmployeeService/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-APIGateway/src/test/test1.iml" filepath="$PROJECT_DIR$/MS-APIGateway/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-ServiceRegistry/src/test/test2.iml" filepath="$PROJECT_DIR$/MS-ServiceRegistry/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS-DepartmentService/src/test/test3.iml" filepath="$PROJECT_DIR$/MS-DepartmentService/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>
